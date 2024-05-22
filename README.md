@@ -11,3 +11,12 @@ This project is a E-commerce Website built with Angular, showcasing various Angu
 - Routing: Implements Angular routing to navigate between different sections of the application.
 - CRUD Operations: Users can perform Create, Read, Update, and Delete operations on products.
 ## Functions
+### Main Page
+![main](ScreenShot/Angular_1.png)
+### Edit Product
+![main](ScreenShot/Angular_2.png)
+### Add Product
+![main](ScreenShot/Angular_3.png)
+### Delete Product
+![main](ScreenShot/Angular_4.png)
+![main](ScreenShot/Angular_5.png)
